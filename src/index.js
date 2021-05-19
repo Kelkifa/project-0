@@ -9,6 +9,7 @@ ReactDOM.render(
     <div>
         <Index />
         <Test />
+        <h3>hello world</h3>
     </div>
     , document.getElementById('app')
 );
